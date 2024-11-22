@@ -30,8 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['search'])) {
 <body>
     <div class="container">
         <header>
-            <h1>Welcome to the Lawyer Job Application System</h1>
-            <p>Your trusted platform for managing lawyer applications.</p>
+            <h1>Lawyer Job Application System</h1>
         </header>
         
         <section class="search-section">
